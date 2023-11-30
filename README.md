@@ -1,1 +1,1 @@
-# sdxl-lcm-video2video
+# cog-sdxl-lcm-video2video
